@@ -29,6 +29,7 @@
 
 - **AutoShift**: Designed a backend scheduling system with FastAPI, PostgreSQL, and SQLAlchemy. Integrated OpenAI API for flexible user input.
 - **Articles_Separation_DL**: Developed a solution to automatically separate articles within a PDF using a CNN model trained on Asif Library data.
+- **OpenAI Chatbot**: A web-based chatbot application driven by GPT-3.5-turbo, allowing users to exchange messages and generate images, complete with Docker deployment.
 
 ## 📚 Courses
 
